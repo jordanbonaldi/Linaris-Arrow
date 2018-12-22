@@ -1,0 +1,8 @@
+lobby-time: 30
+player-min: 5
+player-max: 20
+game-time: 600
+always-day: true
+enable-bungeecord: false
+bungeecord-lobby: lobby
+config-mode: true

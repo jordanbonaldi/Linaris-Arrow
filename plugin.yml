@@ -1,0 +1,10 @@
+name: Arrow
+version: 0.1
+main: net.linaris.Arrow.ArrowPlugin
+author: Neferett
+depend: [LinarisAPI]
+commands:
+  arrow:
+    aliases:  [pvp, swap]
+    usage: /<command> <args>
+    description: settings of Pvp Swap (admin command)
